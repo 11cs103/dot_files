@@ -1,3 +1,11 @@
+Add installation instructions
+- edit directory in install.sh
+- create symlinks
+install vundle
+do Bundle install
+do install tmux and tmuxinator or zsh themes
+
+
 # tmux + zsh = awesomeness
 =======
 ![powertools](https://raw.github.com/adilansari/.dot_files/master/screengrabs/terminal.png)
